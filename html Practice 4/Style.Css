@@ -1,0 +1,40 @@
+.NavBar{
+    background-color: aqua;
+    display: flex;
+    width: 100%;
+}
+.Logo{
+    font-size: 30px;
+    background-color: blueviolet;
+    width: 70%;
+}
+.menus{
+    font-size: 20px;
+    padding-top: 25px;
+    background-color: chocolate;
+    width: 30%;
+}
+
+.Images{
+    width: 100%;
+}
+
+.MainArea{
+    display: flex;
+    background-color: darkblue;
+}
+.Section1{
+    text-align: center;
+    width: 20%;
+    background-color: darkkhaki;
+}
+.Section2{
+    text-align: center;
+    background-color: darkturquoise;
+    width: 60%;
+}
+.Footer{
+    padding-bottom: 2%;
+    text-align: center;
+    background-color: forestgreen;
+}
